@@ -1,0 +1,12 @@
+
+const y=4;
+var x;
+procedure proc;
+    var b;
+    begin
+        b:=5;
+        b:=4;
+    end; 
+x:=3
+x:=5.
+   ***** Error number 008, Incorrect symbol after statement part in block

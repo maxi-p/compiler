@@ -1,0 +1,13 @@
+
+var x;
+begin
+    x := 5
+end.
+
+No errors, program is syntactically correct.
+
+JMP    0    3
+INC    0    4
+LIT    0    5
+STO    0    3
+SYS    0    3

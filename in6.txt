@@ -1,0 +1,12 @@
+var x, y, c, a, asd;
+begin
+    x := y;
+    y := x;
+    asd := 5;
+    c := 5 * 13;
+    a := c - 60 + 3;
+    y := c / (asd + a);
+    write y;
+    x := c / asd + a;
+    write x;
+end.

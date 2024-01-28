@@ -1,0 +1,3 @@
+const nametoolong=5/* asdasdasd */5;
+var b;
+write nametoolong.

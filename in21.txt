@@ -1,0 +1,12 @@
+const y=4;
+var x;
+procedure proc;
+    var b;
+    begin
+        b:=5;
+        b:=4;
+    end;
+begin  
+    x:=3
+end.
+extracode

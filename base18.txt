@@ -1,0 +1,5 @@
+
+const =4;
+var x;
+procedure zero;;.
+   ***** Error number 004, const, var, procedure, and read must be followed by identifier

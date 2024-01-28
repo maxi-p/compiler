@@ -1,0 +1,9 @@
+
+const nametoolong=12345;
+var b;.
+
+No errors, program is syntactically correct.
+
+JMP    0    3
+INC    0    4
+SYS    0    3

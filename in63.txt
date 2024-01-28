@@ -1,0 +1,2 @@
+const nametoolong=123456;
+var b;.

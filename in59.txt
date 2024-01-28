@@ -1,0 +1,3 @@
+const y=4;
+var b,a,x,v,a;
+    write b/(2-b).

@@ -1,0 +1,4 @@
+
+const x = +; 
+var y;.
+   ***** Error number 002, = must be followed by a number: "x"

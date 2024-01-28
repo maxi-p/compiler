@@ -1,0 +1,7 @@
+const y=4;
+var b;
+procedure proc1;
+;
+begin
+    write b/2);
+end.

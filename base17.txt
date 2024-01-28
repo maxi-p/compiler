@@ -1,0 +1,13 @@
+
+const y=4;
+var x;
+procedure zero;;.
+
+No errors, program is syntactically correct.
+
+JMP    0   12
+JMP    0    6
+INC    0    3
+OPR    0    0
+INC    0    4
+SYS    0    3

@@ -1,0 +1,25 @@
+
+var a, b, else, ifel;
+a := else + b + ifel * b / 5 + 7 - 3 / else.
+
+No errors, program is syntactically correct.
+
+JMP    0    3
+INC    0    7
+LOD    0    5
+LOD    0    4
+OPR    0    1
+LOD    0    6
+LOD    0    4
+OPR    0    3
+LIT    0    5
+OPR    0    4
+OPR    0    1
+LIT    0    7
+OPR    0    1
+LIT    0    3
+LOD    0    5
+OPR    0    4
+OPR    0    2
+STO    0    3
+SYS    0    3

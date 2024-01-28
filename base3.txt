@@ -1,0 +1,52 @@
+
+var f, n;
+procedure fact;
+var ans1;
+begin
+ans1:=n;
+n:= n-1;
+if n = 0 then f := 1;
+if n > 0 then call fact;
+f:=f*ans1;
+end;
+begin
+n:=3;
+call fact;
+write f
+end.
+
+
+No errors, program is syntactically correct.
+
+JMP    0   75
+JMP    0    6
+INC    0    4
+LOD    1    4
+STO    0    3
+LOD    1    4
+LIT    0    1
+OPR    0    2
+STO    1    4
+LOD    1    4
+LIT    0    0
+OPR    0    5
+JPC    0   45
+LIT    0    1
+STO    1    3
+LOD    1    4
+LIT    0    0
+OPR    0    9
+JPC    0   60
+CAL    1    6
+LOD    1    3
+LOD    0    3
+OPR    0    3
+STO    1    3
+OPR    0    0
+INC    0    5
+LIT    0    3
+STO    0    4
+CAL    0    6
+LOD    0    3
+SYS    0    1
+SYS    0    3

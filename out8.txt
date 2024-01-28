@@ -1,0 +1,51 @@
+
+var x, y, c, a, asd;
+begin
+    x := y;
+    y := x;
+    asd := 5;
+    c := 5 * 13;
+    a := c - 60 + 3;
+    y := c / (asd + a);
+    write y;
+    x := c / asd + a;
+    write x
+end.
+
+No errors, program is syntactically correct.
+
+JMP    0    3
+INC    0    8
+LOD    0    4
+STO    0    3
+LOD    0    3
+STO    0    4
+LIT    0    5
+STO    0    7
+LIT    0    5
+LIT    0   13
+OPR    0    3
+STO    0    5
+LOD    0    5
+LIT    0   60
+OPR    0    2
+LIT    0    3
+OPR    0    1
+STO    0    6
+LOD    0    5
+LOD    0    7
+LOD    0    6
+OPR    0    1
+OPR    0    4
+STO    0    4
+LOD    0    4
+SYS    0    1
+LOD    0    5
+LOD    0    7
+OPR    0    4
+LOD    0    6
+OPR    0    1
+STO    0    3
+LOD    0    3
+SYS    0    1
+SYS    0    3

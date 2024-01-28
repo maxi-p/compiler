@@ -1,0 +1,17 @@
+
+const y=4;
+var b;
+begin
+    if odd 2 then write 1;
+end.
+
+No errors, program is syntactically correct.
+
+JMP    0    3
+INC    0    4
+LIT    0    2
+OPR    0   11
+JPC    0   21
+LIT    0    1
+SYS    0    1
+SYS    0    3

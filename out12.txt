@@ -1,0 +1,6 @@
+
+var x;
+    begin
+    x := 5
+    end;.
+   ***** Error number 008, Incorrect symbol after statement part in block

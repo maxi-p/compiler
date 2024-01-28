@@ -1,0 +1,12 @@
+
+const y=4;
+var b;
+begin
+    b:=5;
+    while b>0
+    begin
+        b:=b-1;
+        write b;
+    end
+end.
+   ***** Error number 018, Do expected

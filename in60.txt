@@ -1,0 +1,2 @@
+const nametoolong=4;
+var b;.

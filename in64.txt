@@ -1,0 +1,2 @@
+const nametoolong=%%;
+var b;.

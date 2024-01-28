@@ -1,0 +1,16 @@
+const y=4;
+var b;
+procedure proc1;
+    var a;
+    begin
+        proc1:=1;
+    end;
+procedure proc2;
+    var a;
+    begin
+        a:=1;
+        call proc1;
+    end;
+begin
+    b:=3;
+end.

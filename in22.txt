@@ -1,0 +1,10 @@
+const y=4;
+var x;
+procedure proc;
+    var b;
+    begin
+        b:=5;
+        b:=4;
+    end; 
+x:=3
+x:=5.

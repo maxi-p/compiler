@@ -1,0 +1,6 @@
+const y=4;
+var x;
+procedure proc;
+    var b;
+    b:=5
+.

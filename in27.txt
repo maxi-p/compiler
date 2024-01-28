@@ -1,0 +1,50 @@
+const y=4;
+var x;
+procedure proc;
+    var b;
+    b:=5;
+procedure proc1;
+    var b;
+    begin
+    end;
+procedure proc2;
+    var b;
+    b:=5;
+procedure proc3;
+    var b;
+    b:=5;
+procedure proc4;
+    var b;
+    begin
+        b:=5;
+        b:=4;
+        b:=3;
+        b:=2;
+        b:=1
+    end;
+procedure proc5;
+    var b;
+    b:=5;
+procedure proc6;
+    var b;
+    b:=5;
+procedure proc7;
+    var b;
+    if 4 = 5 then write 1;
+procedure proc8;
+    var b;
+    b:=5;
+procedure proc9;
+    var b;
+    begin
+        b:=5;
+        if b = 5 then write b;    
+    end;
+
+procedure proc10;
+    var b;
+    b:=5;
+procedure proc11;
+    var b;
+    b:=5;
+.

@@ -1,0 +1,18 @@
+
+const y=4;
+var b;
+procedure proc1;
+    var a;
+    begin
+        y:=1;
+    end;
+procedure proc2;
+    var a;
+    begin
+        a:=1;
+        call proc1;
+    end;
+begin
+    b:=3;
+end.
+   ***** Error number 012, Assignment to constant or procedure is not allowed

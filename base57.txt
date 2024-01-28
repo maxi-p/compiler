@@ -1,0 +1,21 @@
+
+const y=4;
+var b;
+procedure proc1;
+;
+    write b/(2-b).
+
+No errors, program is syntactically correct.
+
+JMP    0   12
+JMP    0    6
+INC    0    3
+OPR    0    0
+INC    0    4
+LOD    0    3
+LIT    0    2
+LOD    0    3
+OPR    0    2
+OPR    0    4
+SYS    0    1
+SYS    0    3

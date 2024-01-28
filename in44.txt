@@ -1,0 +1,5 @@
+const y=4;
+var b;
+begin
+    b:=2;
+.

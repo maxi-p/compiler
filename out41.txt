@@ -1,0 +1,12 @@
+
+const y=4;
+var b;
+procedure proc1;
+    var a;
+    begin
+        a:=1;
+    end;
+begin
+    call y;
+end.
+   ***** Error number 015, Call of a constant or variable is meaningless: "y"

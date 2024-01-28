@@ -1,0 +1,5 @@
+
+const y=4, y=3;
+var b;
+    write b/(2-b).
+   ***** Error number 019, Symbol name has already been declared: "y"

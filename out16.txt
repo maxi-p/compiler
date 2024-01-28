@@ -1,0 +1,5 @@
+
+const y=4;
+var x;
+procedure zero;.
+   ***** Error number 005, Semicolon or comma missing

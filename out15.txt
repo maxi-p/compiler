@@ -1,0 +1,5 @@
+
+const x+5; 
+var y;
+y:=5.
+   ***** Error number 003, Identifier must be followed by =

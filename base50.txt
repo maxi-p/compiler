@@ -1,0 +1,9 @@
+
+const y=4;
+var b;
+procedure proc1;
+;
+begin
+    write (b/2;
+end.
+   ***** Error number 022, Right parenthesis missing

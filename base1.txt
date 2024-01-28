@@ -1,0 +1,15 @@
+
+var x, y;
+begin
+    x := y + 56
+end.
+
+No errors, program is syntactically correct.
+
+JMP    0    3
+INC    0    5
+LOD    0    4
+LIT    0   56
+OPR    0    1
+STO    0    3
+SYS    0    3

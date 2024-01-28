@@ -1,0 +1,12 @@
+
+const y=4;
+var b;
+procedure proc4;
+    var a;
+    begin
+        a:=1
+    end;
+begin
+    a:=3;
+end.
+   ***** Error number 011, Undeclared identifier: "a"

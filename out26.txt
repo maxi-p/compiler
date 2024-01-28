@@ -1,0 +1,105 @@
+
+const y=4;
+var x;
+procedure proc;
+    var b;
+    b:=5;
+procedure proc1;
+    var b;
+    b:=5;
+procedure proc2;
+    var b;
+    b:=5;
+procedure proc3;
+    var b;
+    b:=5;
+procedure proc4;
+    var b;
+    b:=5;
+procedure proc5;
+    var b;
+    b:=5;
+procedure proc6;
+    var b;
+    b:=5;
+procedure proc7;
+    var b;
+    b:=5;
+procedure proc8;
+    var b;
+    b:=5;
+procedure proc9;
+    var b;
+    b:=5;
+procedure proc10;
+    var b;
+    b:=5;
+procedure proc11;
+    var b;
+    b:=5;
+.
+
+No errors, program is syntactically correct.
+
+JMP    0  180
+JMP    0    6
+INC    0    4
+LIT    0    5
+STO    0    3
+OPR    0    0
+JMP    0   21
+INC    0    4
+LIT    0    5
+STO    0    3
+OPR    0    0
+JMP    0   36
+INC    0    4
+LIT    0    5
+STO    0    3
+OPR    0    0
+JMP    0   51
+INC    0    4
+LIT    0    5
+STO    0    3
+OPR    0    0
+JMP    0   66
+INC    0    4
+LIT    0    5
+STO    0    3
+OPR    0    0
+JMP    0   81
+INC    0    4
+LIT    0    5
+STO    0    3
+OPR    0    0
+JMP    0   96
+INC    0    4
+LIT    0    5
+STO    0    3
+OPR    0    0
+JMP    0  111
+INC    0    4
+LIT    0    5
+STO    0    3
+OPR    0    0
+JMP    0  126
+INC    0    4
+LIT    0    5
+STO    0    3
+OPR    0    0
+JMP    0  141
+INC    0    4
+LIT    0    5
+STO    0    3
+OPR    0    0
+JMP    0  156
+INC    0    4
+LIT    0    5
+STO    0    3
+OPR    0    0
+JMP    0  171
+INC    0    4
+LIT    0    5
+STO    0    3
+INC    0    4
+SYS    0    3

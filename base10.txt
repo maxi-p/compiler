@@ -1,0 +1,4 @@
+
+var x;
+    x := 5
+   ***** Error number 009, Period expected

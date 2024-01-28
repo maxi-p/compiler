@@ -1,0 +1,17 @@
+
+const y=4;
+var x;
+procedure proc;
+    var b;
+    b:=5;
+.
+
+No errors, program is syntactically correct.
+
+JMP    0   15
+JMP    0    6
+INC    0    4
+LIT    0    5
+STO    0    3
+INC    0    4
+SYS    0    3

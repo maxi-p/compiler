@@ -1,0 +1,4 @@
+
+const nametoolong=123456;
+var b;.
+   ***** Error number 025, (LEXICAL) This number is too large: 123456

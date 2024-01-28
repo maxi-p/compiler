@@ -1,0 +1,7 @@
+
+const y=4;
+var b;
+begin
+    if odd 2 write 1;
+end.
+   ***** Error number 016, then expected

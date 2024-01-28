@@ -1,0 +1,7 @@
+
+const y=4;
+var b;
+begin
+    b:=2;
+.
+   ***** Error number 017, Semicolon or End expected

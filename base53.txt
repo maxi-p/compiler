@@ -1,0 +1,7 @@
+
+const y=4;
+var b;
+procedure proc1;
+;
+    write odd b/2.
+   ***** Error number 023, An expression cannot begin with this symbol.

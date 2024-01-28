@@ -1,0 +1,4 @@
+
+const nametoolong=%%;
+var b;.
+   ***** Error number 027, (LEXICAL) Invalid symbol: %

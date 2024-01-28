@@ -1,0 +1,4 @@
+
+const nametoolongg=4;
+var b;.
+   ***** Error number 026, (LEXICAL) Identifier too long: nametoolongg

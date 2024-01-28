@@ -1,0 +1,10 @@
+
+const y=4;
+var b;
+procedure proc1;
+;
+begin
+    write (1+proc1);
+
+end.
+   ***** Error number 021, Expression must not contain a procedure identifier: "proc1"
