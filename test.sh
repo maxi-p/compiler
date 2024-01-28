@@ -15,8 +15,8 @@ echo -e "\nCompile of compiler.c succeded.\n"
 for NUM in {1..67}
 do
    echo "-> Case #$NUM - in$NUM.txt == base$NUM.txt"
-	eval $EXE in$NUM.txt > out$NUM.txt
-	diff -w out$NUM.txt base$NUM.txt
+	eval $EXE test_cases/in$NUM.txt > test_cases/out$NUM.txt
+	diff -w test_cases/out$NUM.txt test_cases/base$NUM.txt
 done
 
 echo -e "\n"
